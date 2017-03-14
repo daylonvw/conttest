@@ -96,7 +96,7 @@
 				TargetAttributes = {
 					0357479A1E77F86F00CC9FCF = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = Z44AU8D3VP;
+						DevelopmentTeam = 4366D77SSG;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -261,7 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = Z44AU8D3VP;
+				DEVELOPMENT_TEAM = 4366D77SSG;
 				INFOPLIST_FILE = conttest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.klm.conttest;
@@ -274,7 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = Z44AU8D3VP;
+				DEVELOPMENT_TEAM = 4366D77SSG;
 				INFOPLIST_FILE = conttest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.klm.conttest;
@@ -302,6 +302,7 @@
 				035747AF1E77F86F00CC9FCF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
