@@ -23,8 +23,8 @@ class ViewController: UIViewController {
 
     
     func Arjen() {
-        print("Arjen")
-    
+        print("This is awesomeeee! ")
+        print("bitches")
     }
     
     
